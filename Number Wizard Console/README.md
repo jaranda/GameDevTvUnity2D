@@ -1,0 +1,1 @@
+Basic introduction to coding using C#. Project from the course "Complete C# Unity Developer 2D - Learn to Code Making Games" by Ben Tristem and Rick Davidson from DevGame.tv. Using Unity 2019.3.0f6 as of 2020/02/11
